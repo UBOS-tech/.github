@@ -1,5 +1,4 @@
-<a href="https://ubos.tech/"><img src="https://ub-test-2.ubraine.com/wp-content/uploads/2023/01/Group-21060.png" width="100%" alt="Ubos - End-to-End Software Development Platform"></a>
-
+<a href="https://ubos.tech/"><img width="100%"  alt="Ubos - End-to-End Software Development Platform" src="https://user-images.githubusercontent.com/41735477/224508700-04c51e46-518f-49bd-98b8-9b4dfc2b5ab3.png"></a>
 <h3 align="center">
   <b><a href="https://docs.ubos.tech/books/getting-started">Get Started</a></b>
   •
