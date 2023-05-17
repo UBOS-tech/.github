@@ -102,7 +102,7 @@ UBOS makes it easy to create powerful utility applications organized across mult
 Issues are inevitable. When you have one, our entire team and our active developer community is around to help.<br>
 
 💬 Ask for help on [Discord](https://discord.com/invite/dt59QaptH2)<br>
-📄 Find a solution in our [Documentation](https://docs.ubos.tech/)<br>
+📄 Find a solution in our [Documentation](https://docs.ubos.tech/), [Community](https://community.ubos.tech/)<br>
 ⚠️ Open an issue right here on [GitHub](https://github.com/UBOS-tech/UBOS/issues/new/choose)<br>
 💡Use our learning resources: [Templates](https://ubos.tech/templates/), [Tutorials/Videos](https://www.youtube.com/@ubos_tech)<br>
 
