@@ -45,3 +45,7 @@
 | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
 | <img width="150" alt="Workspace logo" src="https://github.com/UBOS-tech/.github/assets/41735477/dba84d08-e6df-4047-a4ee-63fcdc19587d"> | <h3 align="left">Workspace</h3><p align="left">Single space to manage tools/services</p> |
 
+## Cloud providers
+
+ | <img src="https://github.com/UBOS-tech/.github/assets/41735477/ff4be737-97e1-4ce5-b0b5-fa156760d6fb" alt="AWS Logo" width="200"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/86f91f9b-a361-4d2f-91cc-ca948191d4f4" alt="Google cloud Logo" width="200"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/785bdac8-8787-4800-bc55-2812579a5816" alt="IBM Cloud Logo" width="200"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/6f818eb7-0cfd-4fdb-ba3e-d946783caa91" alt="Azure Logo" width="200"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/259434e8-afd8-4638-a4a0-a5e6e3b46cfd" alt="DigitalOcean Logo" width="200"> |
+ |--------------------|--------------------|--------------------|--------------------|--------------------|
