@@ -21,8 +21,35 @@
 
 <br />
 <div align="center">
-<img alt="How Appsmith Works" src="https://user-images.githubusercontent.com/41735477/224508700-04c51e46-518f-49bd-98b8-9b4dfc2b5ab3.png" style="width: 100%; height: auto;" />
+<img alt="How UBOS Works" src="https://user-images.githubusercontent.com/41735477/224508700-04c51e46-518f-49bd-98b8-9b4dfc2b5ab3.png" style="width: 100%; height: auto;" />
 </div>
+
+## Build Apps in 4 Steps
+
+### 1. Build your UI
+
+Build your UI with our drag and drop UI builder. Use 70+ Pre-made UI Widgets, customizable widgets including tables, charts, lists, modals, forms, and more. Or use one of the ready-made [templates](https://ubos.tech/templates/)
+<p align="center">
+<img alt="Build UI demo" src="https://github.com/UBOS-tech/.github/assets/41735477/ccba3b1d-534b-4e26-9fcd-e039f51b237b" />
+</p>
+
+### 2. Connect to your data
+Connect to your data with our connectors: databases (PostgresQL, MongoDB, MySQL). Сonnect to third-party services or connect to your own backend using Node-RED
+<p align="center">
+<img alt="Get data demo" src="https://github.com/UBOS-tech/.github/assets/41735477/758040a9-dc0a-4401-bc85-9ae26b47af57" />
+</p>
+
+### 3. Connect the data to the UI
+Connect the data to the UI by configuring the components. Where needed, you can use the Javascript IDE to create more advanced features and data transformations - the sky is the limit!
+<p align="center">
+<img alt="connect data to UI demo" src="https://github.com/UBOS-tech/.github/assets/41735477/5d77762a-2c7b-4d26-909b-c0b014652e54" />
+</p>
+
+### 4. Deploy your app
+In order to see the finished application and share it with others, you just need to press the <b>Deploy</b> button
+<p align="center">
+<img alt="Deploy demo" src="https://github.com/UBOS-tech/.github/assets/41735477/a727e9b3-1f85-4aa1-89c7-103e8f962eed" />
+</p>
 
 ## Tooling
  | <img src="https://github.com/UBOS-tech/.github/assets/41735477/008f4fb1-da27-442e-8239-88598e45a872" alt="UBOS Logo" width="150"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/51f8f645-082b-4c75-85d7-24ccf1719a11" alt="Kubernetes Logo" width="150"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/6a836531-ca7c-4569-8e9e-53d14529d7b7" alt="Docker Logo" width="150"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/9f95b64d-fe99-4d1b-8239-343e40673761" alt="Helm Logo" width="150"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/18660216-c90c-457f-9929-d0c50ff3a118" alt="Argo Logo" width="150"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/ffd655fa-a836-46e7-9029-fc8f214ded3e" alt="Prometheus Logo" width="150"> |
@@ -49,3 +76,35 @@
 
  | <img src="https://github.com/UBOS-tech/.github/assets/41735477/ff4be737-97e1-4ce5-b0b5-fa156760d6fb" alt="AWS Logo" width="200"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/86f91f9b-a361-4d2f-91cc-ca948191d4f4" alt="Google cloud Logo" width="200"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/785bdac8-8787-4800-bc55-2812579a5816" alt="IBM Cloud Logo" width="200"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/6f818eb7-0cfd-4fdb-ba3e-d946783caa91" alt="Azure Logo" width="200"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/259434e8-afd8-4638-a4a0-a5e6e3b46cfd" alt="DigitalOcean Logo" width="200"> |
  |--------------------|--------------------|--------------------|--------------------|--------------------|
+
+## Features
+UBOS makes it easy to create powerful utility applications organized across multiple workspaces. Here are a few notable features of UBOS. We ship new features, bug fixes, and performance improvements regularly
+
+🔥 **UI builder** with a library of 70+ widgets such as
+- Tables
+- Charts
+- Forms
+- Lists
+- Buttons
+- Checkboxes
+- Filepicker
+- Modals
+  ...and more. All widgets come with properties that can be visually edited to set their data, change their styles, and trigger actions from them.
+
+🛠️ **API client and query builder** lets you run RESTful API, GraphQL, or database queries within connected datasources.
+
+🚀 **JavaScript code support**. You can use JavaScript inside `{{ }}` anywhere in UBOS. You can reference every entity in UBOS as a JavaScript variable and perform all JavaScript functions and operations on them. Our in-built JS editor gives the full IDE experience with multiline editing, autocomplete, linting and debugging.
+
+🔄 **Version control with Git** You can connect to any popular version control tool of our liking: GitHub, Gitlab and more.
+
+## Support and Community
+
+Issues are inevitable. When you have one, our entire team and our active developer community is around to help.<br>
+
+💬 Ask for help on [Discord](https://discord.com/invite/dt59QaptH2)<br>
+📄 Find a solution in our [Documentation](https://docs.ubos.tech/)<br>
+⚠️ Open an issue right here on [GitHub](https://github.com/UBOS-tech/UBOS/issues/new/choose)<br>
+💡Use our learning resources: [Templates](https://ubos.tech/templates/), [Tutorials/Videos](https://www.youtube.com/@ubos_tech)<br>
+
+## Top Contributors
+[![Oleksandr-Pupena](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/25325920?v=4&w=50&h=50&mask=circle)](https://github.com/pupenasan)
