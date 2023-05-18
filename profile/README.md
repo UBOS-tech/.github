@@ -20,9 +20,36 @@
 </h3>
 
 <br />
-<div align="center">
+
+## Tooling
+ | <img src="https://github.com/UBOS-tech/.github/assets/41735477/008f4fb1-da27-442e-8239-88598e45a872" alt="UBOS Logo" width="150"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/51f8f645-082b-4c75-85d7-24ccf1719a11" alt="Kubernetes Logo" width="150"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/6a836531-ca7c-4569-8e9e-53d14529d7b7" alt="Docker Logo" width="150"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/9f95b64d-fe99-4d1b-8239-343e40673761" alt="Helm Logo" width="150"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/18660216-c90c-457f-9929-d0c50ff3a118" alt="Argo Logo" width="150"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/ffd655fa-a836-46e7-9029-fc8f214ded3e" alt="Prometheus Logo" width="150"> |
+ |--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+
+## Low-code/No-code tools
+
+| <img width="150" alt="Node-Red logo" src="https://github.com/UBOS-tech/.github/assets/41735477/c191db6c-d406-4604-90ab-29341b9e055a"> | <h3 align="left">Node-Red</h3> <p align="left">Flow builder for integrations & ETL</p> | <img width="150" alt="Appsmith logo" src="https://github.com/UBOS-tech/.github/assets/41735477/d913e499-5bdc-45b2-8f83-29c72e7e1b18"> | <h3 align="left">Appsmith</h3><p align="left">UI Builder for internal tools</p> | <img width="150" alt="PowerFX overview video thumbnail" src="https://github.com/UBOS-tech/.github/assets/41735477/463c2f48-49ad-4d9c-b8f7-33ebccfff3b6"> | <h3 align="left">UI Editor</h3> <p align="left">Extended UI Editor by UBOS.tech</p> |
+| -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
+| <img width="150" alt="Baserow logo" src="https://github.com/UBOS-tech/.github/assets/41735477/f3681df5-bf00-46c9-9517-d9c497868910"> | <h3 align="left">Baserow</h3> <p align="left">No-code database tool like Airtable</p> | <img width="150" alt="NocoDB logo" src="https://github.com/UBOS-tech/.github/assets/41735477/2abdcaff-5ecf-4811-91ad-026c35fd65d3"> | <h3 align="left">NocoDB</h3> <p align="left">Turns database into a spreadsheet</p> |
+
+## Data stores
+
+| <img width="150" alt="PostgreSQL logo" src="https://github.com/UBOS-tech/.github/assets/41735477/86d04cfe-0736-4a1e-845d-bc63aa8ccd37"> | <h3 align="left">PostgreSQL</h3> <p align="left">Open-source relational SQL database</p> | <img width="150" alt="MongoDB logo" src="https://github.com/UBOS-tech/.github/assets/41735477/e4e3dc86-f8e4-447c-8566-e7ee5835adf3"> | <h3 align="left">MongoDB</h3><p align="left">Document-oriented NoSQL database</p> | <img width="150" alt="MySQL logo" src="https://github.com/UBOS-tech/.github/assets/41735477/6474e0ff-0bd5-47eb-b804-f3db068a7137"> | <h3 align="left">MySQL</h3> <p align="left">Oracle-backed open-source RDBMS</p> |
+| -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
+
+## UBOS Micro apps
+
+| <img width="150" alt="AI Creator logo" src="https://github.com/UBOS-tech/.github/assets/41735477/faa7c284-eb7c-4387-bd24-d6f4f8e787d5"> | <h3 align="left">AI Creator</h3> <p align="left">Create UI widget with ChatGPT</p> | <img width="150" alt="Deployment Manager CI/CD logo" src="https://github.com/UBOS-tech/.github/assets/41735477/3d128273-b680-415c-b7c5-8ab20f21627b"> | <h3 align="left">Deployment Manager CI/CD</h3><p align="left">Pack and deploy your solution</p> | <img width="150" alt="Apps Templates logo" src="https://github.com/UBOS-tech/.github/assets/41735477/652e29da-8a8f-45d0-bf6f-b83a7a62b7e9"> | <h3 align="left">Apps Templates</h3> <p align="left">Create or Install composite App</p> |
+| -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
+| <img width="150" alt="Workspace logo" src="https://github.com/UBOS-tech/.github/assets/41735477/dba84d08-e6df-4047-a4ee-63fcdc19587d"> | <h3 align="left">Workspace</h3><p align="left">Single space to manage tools/services</p> |
+
+## Cloud providers
+
+ | <img src="https://github.com/UBOS-tech/.github/assets/41735477/ff4be737-97e1-4ce5-b0b5-fa156760d6fb" alt="AWS Logo" width="200"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/86f91f9b-a361-4d2f-91cc-ca948191d4f4" alt="Google cloud Logo" width="200"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/785bdac8-8787-4800-bc55-2812579a5816" alt="IBM Cloud Logo" width="200"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/6f818eb7-0cfd-4fdb-ba3e-d946783caa91" alt="Azure Logo" width="200"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/259434e8-afd8-4638-a4a0-a5e6e3b46cfd" alt="DigitalOcean Logo" width="200"> |
+ |--------------------|--------------------|--------------------|--------------------|--------------------|
+
+<!-- <div align="center">
 <img alt="How UBOS Works" src="https://user-images.githubusercontent.com/41735477/224508700-04c51e46-518f-49bd-98b8-9b4dfc2b5ab3.png" style="width: 100%; height: auto;" />
-</div>
+</div> -->
 
 ## Build Apps in 4 Steps
 
@@ -51,34 +78,20 @@ In order to see the finished application and share it with others, you just need
 <img alt="Deploy demo" src="https://github.com/UBOS-tech/.github/assets/41735477/a727e9b3-1f85-4aa1-89c7-103e8f962eed" />
 </p>
 
-## Tooling
- | <img src="https://github.com/UBOS-tech/.github/assets/41735477/008f4fb1-da27-442e-8239-88598e45a872" alt="UBOS Logo" width="150"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/51f8f645-082b-4c75-85d7-24ccf1719a11" alt="Kubernetes Logo" width="150"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/6a836531-ca7c-4569-8e9e-53d14529d7b7" alt="Docker Logo" width="150"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/9f95b64d-fe99-4d1b-8239-343e40673761" alt="Helm Logo" width="150"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/18660216-c90c-457f-9929-d0c50ff3a118" alt="Argo Logo" width="150"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/ffd655fa-a836-46e7-9029-fc8f214ded3e" alt="Prometheus Logo" width="150"> |
- |--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-
-## Low-code/No-code tools
-
-| <img width="150" alt="Node-Red logo" src="https://github.com/UBOS-tech/.github/assets/41735477/c191db6c-d406-4604-90ab-29341b9e055a"> | <h3 align="left">Node-Red</h3> <p align="left">Flow builder for integrations & ETL</p> | <img width="150" alt="Appsmith logo" src="https://github.com/UBOS-tech/.github/assets/41735477/d913e499-5bdc-45b2-8f83-29c72e7e1b18"> | <h3 align="left">Appsmith</h3><p align="left">UI Builder for internal tools</p> | <img width="150" alt="PowerFX overview video thumbnail" src="https://github.com/UBOS-tech/.github/assets/41735477/463c2f48-49ad-4d9c-b8f7-33ebccfff3b6"> | <h3 align="left">UI Editor</h3> <p align="left">Extended UI Editor by UBOS.tech</p> |
-| -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
-| <img width="150" alt="Baserow logo" src="https://github.com/UBOS-tech/.github/assets/41735477/f3681df5-bf00-46c9-9517-d9c497868910"> | <h3 align="left">Baserow</h3> <p align="left">No-code database tool like Airtable</p> | <img width="150" alt="NocoDB logo" src="https://github.com/UBOS-tech/.github/assets/41735477/2abdcaff-5ecf-4811-91ad-026c35fd65d3"> | <h3 align="left">NocoDB</h3> <p align="left">Turns database into a spreadsheet</p> |
-
-## Data stores
-
-| <img width="150" alt="PostgreSQL logo" src="https://github.com/UBOS-tech/.github/assets/41735477/86d04cfe-0736-4a1e-845d-bc63aa8ccd37"> | <h3 align="left">PostgreSQL</h3> <p align="left">Open-source relational SQL database</p> | <img width="150" alt="MongoDB logo" src="https://github.com/UBOS-tech/.github/assets/41735477/e4e3dc86-f8e4-447c-8566-e7ee5835adf3"> | <h3 align="left">MongoDB</h3><p align="left">Document-oriented NoSQL database</p> | <img width="150" alt="MySQL logo" src="https://github.com/UBOS-tech/.github/assets/41735477/6474e0ff-0bd5-47eb-b804-f3db068a7137"> | <h3 align="left">MySQL</h3> <p align="left">Oracle-backed open-source RDBMS</p> |
-| -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
-
-## UBOS Micro apps
-
-| <img width="150" alt="AI Creator logo" src="https://github.com/UBOS-tech/.github/assets/41735477/faa7c284-eb7c-4387-bd24-d6f4f8e787d5"> | <h3 align="left">AI Creator</h3> <p align="left">Create UI widget with ChatGPT</p> | <img width="150" alt="Deployment Manager CI/CD logo" src="https://github.com/UBOS-tech/.github/assets/41735477/3d128273-b680-415c-b7c5-8ab20f21627b"> | <h3 align="left">Deployment Manager CI/CD</h3><p align="left">Pack and deploy your solution</p> | <img width="150" alt="Apps Templates logo" src="https://github.com/UBOS-tech/.github/assets/41735477/652e29da-8a8f-45d0-bf6f-b83a7a62b7e9"> | <h3 align="left">Apps Templates</h3> <p align="left">Create or Install composite App</p> |
-| -------------------- | -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
-| <img width="150" alt="Workspace logo" src="https://github.com/UBOS-tech/.github/assets/41735477/dba84d08-e6df-4047-a4ee-63fcdc19587d"> | <h3 align="left">Workspace</h3><p align="left">Single space to manage tools/services</p> |
-
-## Cloud providers
-
- | <img src="https://github.com/UBOS-tech/.github/assets/41735477/ff4be737-97e1-4ce5-b0b5-fa156760d6fb" alt="AWS Logo" width="200"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/86f91f9b-a361-4d2f-91cc-ca948191d4f4" alt="Google cloud Logo" width="200"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/785bdac8-8787-4800-bc55-2812579a5816" alt="IBM Cloud Logo" width="200"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/6f818eb7-0cfd-4fdb-ba3e-d946783caa91" alt="Azure Logo" width="200"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/259434e8-afd8-4638-a4a0-a5e6e3b46cfd" alt="DigitalOcean Logo" width="200"> |
- |--------------------|--------------------|--------------------|--------------------|--------------------|
-
 ## Features
 UBOS makes it easy to create powerful utility applications organized across multiple workspaces. Here are a few notable features of UBOS. We ship new features, bug fixes, and performance improvements regularly
+
+✨ **Create new service without any knowledge of Kubernetes/DevOps just in a single click** - is a groundbreaking manager that empowers users to effortlessly create low-code tools, services, and databases with just a single click. With the help of an intuitive manager, you can easily configure your Kubernetes pods, allowing for increased resources, networking options, and other Kubernetes configurations.
+<p align="center">
+<img alt="Create service demo" src="https://github.com/UBOS-tech/.github/assets/41735477/9b924bf6-eff6-46c1-b857-1c9773fde9d8" />
+</p>
+
+Each service works as a pod in Kubernetes (k8s) cluster and consume RAM/CPU/Network/Volume. Workspace manager helps to set limits for resources and control scaling options during Development and Product phase
+Workspace Manager - is a main view of engineer that helps you run/manage/deploy/monitor all your services/resources which are used during the application development process gathered under a single UBOS Workspace unit (k8s namespace).
+
+Deployment Manager: Simplifying Deployment in Low-Code/No-Code Development - is a pivotal feature within our low-code/no-code development platform that streamlines the deployment process for your applications across multiple environments. With Deployment Manager, you can effortlessly deploy your services, convert them into Docker images and Helm charts, and seamlessly export your solutions from the platform to external servers.
+
+<img width="1262" alt="Deployment Manager" src="https://github.com/UBOS-tech/.github/assets/41735477/31a6de5d-f123-45d2-88c7-37e1a59192ab">
 
 🔥 **UI builder** with a library of 70+ widgets such as
 - Tables
