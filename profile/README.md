@@ -108,3 +108,4 @@ Issues are inevitable. When you have one, our entire team and our active develop
 
 ## Top Contributors
 [![Oleksandr-Pupena](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/25325920?v=4&w=50&h=50&mask=circle)](https://github.com/pupenasan)
+[![Artem-Volkhonskyi](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/1095006?v=4&w=50&h=50&mask=circle)](https://github.com/artyom4d)
