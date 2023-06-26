@@ -47,9 +47,11 @@
  | <img src="https://github.com/UBOS-tech/.github/assets/41735477/ff4be737-97e1-4ce5-b0b5-fa156760d6fb" alt="AWS Logo" width="200"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/86f91f9b-a361-4d2f-91cc-ca948191d4f4" alt="Google cloud Logo" width="200"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/785bdac8-8787-4800-bc55-2812579a5816" alt="IBM Cloud Logo" width="200"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/6f818eb7-0cfd-4fdb-ba3e-d946783caa91" alt="Azure Logo" width="200"> | <img src="https://github.com/UBOS-tech/.github/assets/41735477/259434e8-afd8-4638-a4a0-a5e6e3b46cfd" alt="DigitalOcean Logo" width="200"> |
  |--------------------|--------------------|--------------------|--------------------|--------------------|
 
-<!-- <div align="center">
-<img alt="How UBOS Works" src="https://user-images.githubusercontent.com/41735477/224508700-04c51e46-518f-49bd-98b8-9b4dfc2b5ab3.png" style="width: 100%; height: auto;" />
-</div> -->
+## Templates
+| Name | NodeRed GIT | UI GIT | YouTube | Use |
+|:-----------|:-----------|:-----------|:-----------|:-----------|
+| AI Task manager | [link](https://github.com/UBOS-tech/ubos-template-AI-task-manager-NR) | [link](https://github.com/UBOS-tech/ubos-template-AI-task-manager-UI) | <a href="https://youtu.be/rkc5tKsmDlo"><img src="https://ubos.tech/wp-content/uploads/2023/06/Group-19.png" alt="YouTube link" width="100"></a> | <a href="https://platform.ubos.tech/?templateId=64538a883023c6001004f3af"><img src="https://ubos.tech/wp-content/uploads/2023/06/download-logo.png" alt="Use template" width="100"></a>
+| Text to video Elevenlabs + Synthesia | [link](https://github.com/UBOS-tech/text-to-video-ElevenlabsNR) | [link](https://github.com/UBOS-tech/text-to-video-ElevenlabsUI) | <a href="https://youtu.be/A-vWKUaUX2Y"><img src="https://ubos.tech/wp-content/uploads/2023/06/Group-19.png" alt="YouTube link" width="100"></a> | <a href="https://platform.ubos.tech/?templateId=64806154bb0b6a0011a00580"><img src="https://ubos.tech/wp-content/uploads/2023/06/download-logo.png" alt="Use template" width="100"></a>
 
 ## Build Apps in 4 Steps
 
