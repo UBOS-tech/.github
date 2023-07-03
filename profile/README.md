@@ -63,7 +63,7 @@
 | Help me write | [link](https://github.com/UBOS-tech/ubos-template-AI-help-me-write-NR) | [link](https://github.com/UBOS-tech/ubos-template-AI-help-me-write-UI) | <a href="https://youtu.be/p5iYMMWkZyo"><img src="https://ubos.tech/wp-content/uploads/2023/06/Group-19.png" alt="YouTube link" width="100"></a> | <a href="https://platform.ubos.tech/?templateId=64631d733023c6001004f3da"><img src="https://ubos.tech/wp-content/uploads/2023/06/download-logo.png" alt="Use template" width="100"></a>
 | Auth | [link](https://github.com/UBOS-tech/auth_nr) | [link](https://github.com/UBOS-tech/auth_ui) |  | <a href="https://platform.ubos.tech/?templateId=647e345abb0b6a0011a0057c"><img src="https://ubos.tech/wp-content/uploads/2023/06/download-logo.png" alt="Use template" width="100"></a>
 
-And [35+ AI Template](https://github.com/UBOS-tech/.github/blob/main/profile/ai-apps.md)
+And [35+ AI Templates](https://github.com/UBOS-tech/.github/blob/main/profile/ai-apps.md)
 
 ## Build Apps in 4 Steps
 
