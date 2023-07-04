@@ -74,6 +74,7 @@ We specializes in creating enhanced nodes for [Node-RED](https://flows.nodered.o
 | node-red-contrib-pinecone | [![platform](https://img.shields.io/badge/platform-Node--RED-red)](https://flows.nodered.org/node/node-red-contrib-pinecone) | [![npm](https://img.shields.io/npm/v/node-red-contrib-pinecone.svg)](https://www.npmjs.com/package/node-red-contrib-pinecone) | [![downloads](https://img.shields.io/npm/dt/node-red-contrib-pinecone.svg)](https://www.npmjs.com/package/node-red-contrib-pinecone) | [link](https://github.com/UBOS-tech/node-red-contrib-pinecone#readme) |
 
 ## 🎨 Templates
+We have developed 40+ templates that will accelerate your start and address various challenges on the UBOS low-code platform.
 | Name | Node-RED GIT | UI GIT | YouTube | Use |
 |:-----------|:-----------|:-----------|:-----------|:-----------|
 | AI Task manager | [link](https://github.com/UBOS-tech/ubos-template-AI-task-manager-NR) | [link](https://github.com/UBOS-tech/ubos-template-AI-task-manager-UI) | <a href="https://youtu.be/rkc5tKsmDlo"><img src="https://ubos.tech/wp-content/uploads/2023/06/Group-19.png" alt="YouTube link" width="100"></a> | <a href="https://platform.ubos.tech/?templateId=64538a883023c6001004f3af"><img src="https://ubos.tech/wp-content/uploads/2023/06/download-logo.png" alt="Use template" width="100"></a>
