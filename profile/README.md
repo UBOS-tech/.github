@@ -19,8 +19,6 @@
   <a href="https://discord.com/invite/dt59QaptH2">Discord</a>
 </h3>
 
-<br />
-
 ## 🌐 UBOS Cloud Platform Architecture
 
 <details>
