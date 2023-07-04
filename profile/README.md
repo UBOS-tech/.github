@@ -152,6 +152,24 @@ Deployment Manager: Simplifying Deployment in Low-Code/No-Code Development - is 
 
 🔄 **Version control with Git** You can connect to any popular version control tool of our liking: GitHub, Gitlab and more.
 
+## Videos 🎥
+- [Get Started with UBOS.tech](https://youtu.be/Xr-feXRWoN4)
+- [Quick Overview: Build AI Applications with Ease Using UBOS.tech](https://youtu.be/_KpigjTKChg)
+- [Build a BabyAGI/AutoGPT](https://youtu.be/rkc5tKsmDlo)
+- [Creating and Forking Templates on UBOS.tech](https://youtu.be/_OiiFc76dFQ)
+- [Mastering Text-to-Video AI App Development](https://youtu.be/0ce6bJTlMdI)
+
+You can watch more videos on our [channel](https://www.youtube.com/@ubos_tech)
+
+## Blogs from Community 📚
+- [Introduction and familiarization with the UI Editor environment](https://community.ubos.tech/blue_skies/introduction-and-familiarization-with-the-ui-editor-environment-ank)
+- [How to Connect UI Editor and Node-RED to GIT?](https://community.ubos.tech/anastasiia/how-to-connect-ui-editor-and-node-red-to-git-120f)
+- [Creating a Real-Time Data Map Using Node-RED](https://community.ubos.tech/olha/create-map-in-node-red-55m2)
+- [AI-Generated Gallery](https://docs.ubos.tech/books/ai-generated-gallery)
+- [Create custom Telegram bot with OpenAI API and Knowledge management panel](https://community.ubos.tech/vika/customersupportchatbot-1ac8)
+
+You can read more interesting articles [here](https://community.ubos.tech)
+
 ## 🤝 Support and Community
 
 Issues are inevitable. When you have one, our entire team and our active developer community is around to help.<br>
