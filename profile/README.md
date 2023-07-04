@@ -21,7 +21,7 @@
 
 <br />
 
-## 🌐 UBOS Platform Overview
+## 🌐 UBOS Cloud Platform Architecture
 
 <details>
 <summary>Tooling</summary>
@@ -120,7 +120,7 @@ In order to see the finished application and share it with others, you just need
 <img alt="Deploy demo" src="https://github.com/UBOS-tech/.github/assets/41735477/a727e9b3-1f85-4aa1-89c7-103e8f962eed" />
 </p>
 
-## Features
+## 🎯 Features
 UBOS makes it easy to create powerful utility applications organized across multiple workspaces. Here are a few notable features of UBOS. We ship new features, bug fixes, and performance improvements regularly
 
 ✨ **Create new service without any knowledge of Kubernetes/DevOps just in a single click** - is a groundbreaking manager that empowers users to effortlessly create low-code tools, services, and databases with just a single click. With the help of an intuitive manager, you can easily configure your Kubernetes pods, allowing for increased resources, networking options, and other Kubernetes configurations.
@@ -152,7 +152,7 @@ Deployment Manager: Simplifying Deployment in Low-Code/No-Code Development - is 
 
 🔄 **Version control with Git** You can connect to any popular version control tool of our liking: GitHub, Gitlab and more.
 
-## Support and Community
+## 🤝 Support and Community
 
 Issues are inevitable. When you have one, our entire team and our active developer community is around to help.<br>
 
@@ -161,6 +161,6 @@ Issues are inevitable. When you have one, our entire team and our active develop
 ⚠️ Open an issue right here on [GitHub](https://github.com/UBOS-tech/UBOS/issues/new/choose)<br>
 💡Use our learning resources: [Templates](https://ubos.tech/templates/), [Tutorials/Videos](https://www.youtube.com/@ubos_tech)<br>
 
-## Top Contributors
+## 🏆 Top Contributors
 [![Oleksandr-Pupena](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/25325920?v=4&w=50&h=50&mask=circle)](https://github.com/pupenasan)
 [![Artem-Volkhonskyi](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/1095006?v=4&w=50&h=50&mask=circle)](https://github.com/artyom4d)
