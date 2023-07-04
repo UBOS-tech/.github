@@ -21,7 +21,7 @@
 
 <br />
 
-## 🌐 UBOS Cloud Platform Overview
+## 🌐 UBOS Platform Overview
 
 <details>
 <summary>Tooling</summary>
