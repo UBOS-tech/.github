@@ -7,7 +7,7 @@
 </p>
 <br />
 
-<p>All-in-one cloud platform combines the low-code/no-code tools with edge technologies to make your web application scalable, secure and easy to manage</p>
+<p>UBOS.tech is a cutting-edge low-code/no-code application development platform designed to simplify the process of creating custom Generative AI solutions. With UBOS.tech, businesses and developers can easily build and deploy custom applications without requiring extensive coding knowledge or specialized AI expertise. Chain multiple LLM or AI/ML API services into a single flow.</p>
 
 <h3 align="center">
   <b><a href="https://docs.ubos.tech/books/getting-started">Get Started</a></b>
