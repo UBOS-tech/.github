@@ -1,5 +1,3 @@
-<br /><br />
-
 <p align="center">
 <a href="https://ubos.tech">
   <img src="https://github.com/UBOS-tech/.github/assets/41735477/c0b59444-1892-45e0-9b8a-0c63c1ca4b9a" alt="Appsmith Logo" width="100%">
