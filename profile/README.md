@@ -13,3 +13,5 @@
   •
   <a href="https://discord.com/invite/dt59QaptH2">Discord</a>
 </h3>
+
+<p>🎯 At UBOS, we are pioneering the future of AI engineering by constructing next-generation tools that enable anyone to create AI-powered solutions that change the world.<p>
